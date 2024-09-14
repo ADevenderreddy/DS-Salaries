@@ -1,1 +1,1 @@
-# DS-Salaries
+# Data Scientis-Salaries Dashboard
